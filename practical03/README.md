@@ -1,4 +1,4 @@
-# Practical04
+# Practical03
 
 This is the third practical where the program makes use of trapezoidal rule to approximate the integral of the tangent function from 0 to 60 degrees, then compares the result with the real value of log(2).
 It adds contributions from many angles using a loop, verifies that the angles are even, and produces pertinent results, including discrepancies to evalute the approimation's accuracy.
