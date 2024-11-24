@@ -1,0 +1,196 @@
+commit 4f910d47af6b61574dd2473d7d1ea7e02b28d844 (HEAD -> practical09)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sun Nov 24 13:51:40 2024 +0000
+
+    Remove deleted files
+
+commit 35ce755a4b125b4dc0ed2a3cd0d0cc146f9e1555 (origin/practical09)
+Author: Sanmesh18 <sanmeshshintre@gmail.com>
+Author: Sanmesh18 <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 16:24:47 2024 +0000
+Date:   Sat Nov 23 16:24:47 2024 +0000
+
+    Delete practical08 directory
+
+commit b8537fb1940039aecc5d8af55ee6cbd522aaa422
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 16:23:31 2024 +0000
+
+    Adding magic_square.h file to practical09 folder
+
+commit 5dd14717de49b96c2e8c18e3f747fd522911c7fc
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 16:22:06 2024 +0000
+
+    Adding README.md file to practical09 folder
+
+commit ab3bb0c5a5e813c27532773705b54a0d6f300074
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 16:21:09 2024 +0000
+
+    Adding main_stub.c to practical09 folder
+
+commit bca80242467d1400e9c6b43bf9e65e05b4b0b272
+Merge: 7302ade 0a7cfb0
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 16:19:29 2024 +0000
+
+    Merging practical09 branches
+
+commit 7302ade43de558a321d4b4de0d80ce84fb2276ca
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 15:45:55 2024 +0000
+
+Date:   Sat Nov 23 15:45:55 2024 +0000
+
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 15:45:55 2024 +0000
+
+    Adding not_magic_square.txt
+
+commit 0a7cfb0368a70f315368e83fc262100a5cda3c4f
+Merge: 4dcb508 efbaad9
+Author: Sanmesh18 <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 15:43:22 2024 +0000
+
+    Merge pull request #7 from Sanmesh18/master
+
+    Adding magic_square.txt to practical09
+
+commit efbaad913b78f8242876831b475cd30b0f54a0ab
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sat Nov 23 15:37:07 2024 +0000
+
+    Adding magic_square.txt to practical09
+
+commit 4dcb50805ff65e47c978ac72d809104b19870fd1 (HEAD -> practical08, origin/practical08)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 22:29:54 2024 +0000
+
+    Adding README.md to practical08
+
+commit f970339e2504ecb57963b9319650cc50c10665ed
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 22:29:23 2024 +0000
+
+    Adding gcd_random.c to practical08
+
+commit d2b1ce72e9891d87683a371f7ed2cae1a9cdb312
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 22:27:02 2024 +0000
+
+    Adding gcd.c to practical08
+
+commit 2e7fec971e68c3b3f2e92b56346862d4b1fe243b (HEAD -> practical07, origin/practical07)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 21:09:29 2024 +0000
+
+    Adding README.md to practical07
+
+commit 57b1d723ab1fa452f296f646127c7c97e6498ea3
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 21:08:51 2024 +0000
+
+    Adding pointers.c to practical07
+
+commit 485c7605d425df6df6bcd204627bd4dea536ed8c
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 21:07:48 2024 +0000
+
+    Adding finde.c to practical07
+
+commit c49ef8a4a0fc89d101183b8673a8314103f08d9e (HEAD -> practical06)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 21:03:41 2024 +0000
+
+    Adding find.e to practical07
+
+commit ec2cee00aa47de912366f5a8b65e02720ba0ee8f (origin/practical06)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 12:18:19 2024 +0000
+
+    Adding Makefile to practical06
+
+commit 073a8b8b0547c03ae993728da6a874ee1eacf020
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 12:17:04 2024 +0000
+
+    Adding README.md to practical06
+
+commit 15bc1cd86001d98fa734265400af309fd93ce129
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Thu Nov 14 12:16:35 2024 +0000
+
+    Adding mm.c to practical06
+
+commit 1844ad07b1e9f935bb6401793f06dc8924b76577 (HEAD -> practical05, origin/practical05)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 01:02:09 2024 +0000
+
+    Adding README.md to practical05
+
+commit d2ef22df856961f2c9c8e42821002a486a8f74b2
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 01:01:28 2024 +0000
+
+    Adding arctanh.c to practical05
+
+commit bef64ca76a5d1b109ebefecc6d84e6422f6c682f
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 01:00:22 2024 +0000
+
+    Adding use_scanf.c to practical05
+
+commit 2aee16e883a7924f96b0371bed9061d633afdbdc
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 00:56:08 2024 +0000
+
+    Adding fibo.c to practical05
+
+commit a046098d10a76b9a8eb34d5d4ab2a20d03ef9b39 (HEAD -> practical04)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 00:53:10 2024 +0000
+
+    Adding use_scanf.c to practical05
+
+commit a787c574d44688cb6578fe84a7e59ed4d5f36040 (origin/practical04)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 00:36:27 2024 +0000
+
+    Adding README.md to practical04
+
+commit 66794aa3757203eacf76cd06b013be2eb8b893eb (HEAD -> practical03)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 00:28:01 2024 +0000
+
+    Adding practical04.c to practical04
+
+commit 6ddae345dfa1acd8831320c88324e4ba9eba77e7
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Mon Nov 11 00:18:11 2024 +0000
+
+    Adding README.md file to practical03
+
+commit e62df5b6e70e98220accc241348e1be645d443b0 (HEAD -> practical02)
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sun Nov 10 23:17:14 2024 +0000
+
+    Adding README.md to practical02
+
+commit 32a980a5ace6871b2a77b3d3527d03ff39f975bd
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sun Nov 10 23:14:43 2024 +0000
+
+    Adding conversion.c file to practical02
+
+commit 19e612d61b5df30a36471a1fa6b1f210f598d926
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Sun Nov 10 23:10:53 2024 +0000
+
+    Addig sum.c file to practical02
+
+commit a82cf2d49d17a0f9c00b4f9cefd2987886b7e71a
+Author: Sanmesh Sanjay Shintre <sanmeshshintre@gmail.com>
+Date:   Tue Oct 29 19:04:16 2024 +0000
+
+    Add introduction to Git Assignment
